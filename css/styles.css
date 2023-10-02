@@ -1,0 +1,20 @@
+#divPrincipal{
+    text-align: center;
+}
+
+#logo {
+    width: 20em;
+}
+
+#container {
+    margin-top: 2em;
+}
+
+#imagenCarta{
+    width: 10em;
+}
+
+p {
+    margin-top: 3em;
+    font-size: x-small;
+}
